@@ -1,3 +1,5 @@
+package Percolation;
+
 public class Percolation {
 
     private final int[] map;
